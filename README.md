@@ -15,7 +15,7 @@ kwalletmanager     kwalletmanager5     libreoffice-calc
 ```
 
 >[!NOTE]
->If you use any of the listed packages, download the “fedora_kde_debloat.sh” file and remove them from the list.
+>If you use any of the listed packages, download the “fedora_kde_debloat.sh” file and remove them from the script.
 
 # Installation
 
