@@ -19,6 +19,7 @@ PKGS=(
 	"krfb"
 	"ktnef"
 	"kwalletmanager"
+	"kwalletmanager5"
 	"libreoffice-calc"
 	"libreoffice-math"
 	"libreoffice-impress"
