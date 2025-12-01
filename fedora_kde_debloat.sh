@@ -13,7 +13,7 @@ PKGS=(
 	"konversation"
 	"kontact"
 	"korganizer"
-    "kleopatra"
+	"kleopatra"
 	"kpat"
 	"krdc"
 	"krfb"
@@ -24,7 +24,7 @@ PKGS=(
 	"libreoffice-impress"
 	"libreoffice-draw"
 	"libreoffice-writer"
-    "neochat"
+	"neochat"
 	"pim"
 )
 sudo dnf -y remove "${PKGS[@]}"
