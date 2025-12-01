@@ -4,10 +4,15 @@ This Bash script performs a Fedora KDE "debloat", uninstalling some of the pre-i
 
 # Removed packages
 
-  akregator    kmahjongg  kmouth       korganizer krfb            libreoffice-calc    libreoffice-writer
-  dragon       kmail      kolourpaint  kleopatra  ktnef           libreoffice-math    neochat
-  elisa-player kmines     konversation kpat       kwalletmanager  libreoffice-impress pim
-  kaddressbook kmousetool kontact      krdc       kwalletmanager5 libreoffice-draw    
+```
+akregator          kmail               kontact             libreoffice-draw
+dragon             kmahjongg           korganizer          libreoffice-impress
+elisa-player       kmines              kpat                libreoffice-math
+kaddressbook       kmousetool          krdc                libreoffice-writer
+kleopatra          kmouth              krfb                neochat
+kolourpaint        konversation        ktnef               pim
+kwalletmanager     kwalletmanager5     libreoffice-calc
+```
 
 # Installation
 
