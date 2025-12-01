@@ -14,7 +14,7 @@ kolourpaint        konversation        ktnef               pim
 kwalletmanager     kwalletmanager5     libreoffice-calc
 ```
 
->[NOTE]
+>[!NOTE]
 >If you use any of the listed packages, download the “fedora_kde_debloat.sh” file and remove them from the list.
 
 # Installation
